@@ -37,7 +37,8 @@ pip install pandas requests json smtplib
 ```
 
 ### Funcionalidade e demonstração da aplicação
-
+![Execução](imagens/rodando.JPG)
+![E-mail](imagens/email.png)
 
 ### Tecnologia utilizadas
 * [Python 3.10](https://www.python.org/downloads/) - Linguagem utilizada para criação do projeto.
